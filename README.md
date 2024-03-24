@@ -89,3 +89,5 @@ To get LSP features with Clangd, you can use [bear](https://github.com/rizsotto/
 ```
 make clean
 bear -- make
+
+Everything is learned from (https://www.youtube.com/watch?v=g9KbXJydf8I&list=PLS_iNJJVTtiRV0DZRDcTHnvAuDrKGPN40&ab_channel=ArtfulBytes).
