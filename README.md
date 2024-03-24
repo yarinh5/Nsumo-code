@@ -4,9 +4,9 @@ four DC-motors, three range sensors, four line sensors, and a [custom-designed P
 including the microcontroller MSP430G2553. The code is bare-metal C and follows a [super-loop
 architecture]. It includes
 a state machine implementation and many low-level drivers for GPIO, I2C, ADC, UART, VL53L0X, and more.
-Everything is learned from (https://www.youtube.com/watch?v=g9KbXJydf8I&list=PLS_iNJJVTtiRV0DZRDcTHnvAuDrKGPN40&ab_channel=ArtfulBytes).
-<img src="/images/nsumo.jpg">
 
+<img src="/images/nsumo.jpg">
+Everything is learned from (https://www.youtube.com/watch?v=g9KbXJydf8I&list=PLS_iNJJVTtiRV0DZRDcTHnvAuDrKGPN40&ab_channel=ArtfulBytes).
 ## Files
 | Folder | Description |
 |-----|----|
