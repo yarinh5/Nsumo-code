@@ -1,8 +1,8 @@
 # Nsumo code
 This repository contains code for Nsumo, a mini-class Sumobot (500g 10x10cm). Nsumo has
-four DC-motors, three range sensors, four line sensors, and a [custom-designed PCB](https://github.com/artfulbytes/nsumo_hardware.git)
+four DC-motors, three range sensors, four line sensors, and a [custom-designed PCB]
 including the microcontroller MSP430G2553. The code is bare-metal C and follows a [super-loop
-architecture](https://en.wikibooks.org/wiki/Embedded_Systems/Super_Loop_Architecture). It includes
+architecture](). It includes
 a state machine implementation and many low-level drivers for GPIO, I2C, ADC, UART, VL53L0X, and more.
 
 <img src="/images/nsumo.jpg">
