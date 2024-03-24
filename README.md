@@ -74,7 +74,7 @@ make
 ```
 
 ## Simulation (Bots2D)
-The state machine logic can be simulated inside my robotics simulator [Bots2D](https://github.com/artfulbytes/bots2d),
+The state machine logic can be simulated inside my robotics simulator [Bots2D],
 see that repository for more info.
 
 <img src="/images/simulator.png">
